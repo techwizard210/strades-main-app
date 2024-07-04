@@ -1,0 +1,110 @@
+{
+    "name": "newsfeed",
+    "categories":[
+    {
+        "name":"Traders",
+        "articles":[
+        {
+            "id": "1",
+            "title":"Traders",
+            "content":"Traders are people who trade stuff",
+            "source":"https://www.investopedia.com/terms/t/trader.asp",
+            "author":"Investopedia",
+            "publishing_date":"2021-10-10",
+            "category":"Traders",
+            "data_affiliated":"Traders"
+        },
+        {
+            "id": "2",
+            "title":"Bob is on a back on a boat!",
+            "content":"Breaking news! Bob is back on a boat!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Traders",
+            "data_affiliated":"Traders"
+        },
+        {
+            "id": "3",
+            "title":"Mariana is a hot right now!",
+            "content":"Mariana is cooking something!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Traders",
+            "data_affiliated":"Traders"
+        }
+        ]
+    },
+    {
+        "name":"Assets",
+        "articles":[
+        {
+            "id": "4",
+            "title":"Bitcoin to the moon!",
+            "content":"Bitcoin is expected to reach $100,000 by the end of the year!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Assets",
+            "data_affiliated":"Assets"
+        },
+        {   
+            "id": "5",
+            "title":"Ethereum is coming to the moon!",
+            "content":"Ethereum is expected to reach $10,000 by the end of the year!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Assets",
+            "data_affiliated":"Assets"
+        },
+        {
+            "id": "6",
+            "title":"Solana to the Sun!",
+            "content":"Solana is expected to reach $1,000 by the end of the year!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Assets",
+            "data_affiliated":"Assets"
+        }
+        ]
+    },
+    {
+        "name":"Algorithms",
+        "articles":[
+        {
+            "id": "7",
+            "title":"Xzvz on the rise!",
+            "content":"Xzvz is doing amazing performances!",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Algorithms",
+            "data_affiliated":"Algorithms"
+        },
+        {
+            "id": "8",
+            "title":"StradeIn taking all the good bets",
+            "content":"Amazing performance as usual from StradeIn",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Algorithms",
+            "data_affiliated":"Algorithms"
+        },
+        {
+            "id": "9",
+            "title":"TooShort2Die is too short to die!",
+            "content":"Will its positions pay off soon enough?",
+            "source":"",
+            "author":"",
+            "publishing_date":"",
+            "category":"Algorithms",
+            "data_affiliated":"Algorithms"
+        }
+        ]
+    }
+]
+}

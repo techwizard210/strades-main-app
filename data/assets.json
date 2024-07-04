@@ -1,0 +1,617 @@
+{
+  "name": "assets",
+  "categories": [
+    {
+      "name": "Companies",
+      "companies": [
+        {
+          "id": "apple",
+          "name": "Apple Inc.",
+          "sector": "Technology",
+          "symbol": "AAPL",
+          "stock_price_usd": "150",
+          "market_cap_usd": "2 trillion",
+          "description": "Designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.",
+          "headquarter": "Cupertino, CA, USA",
+          "yearOfCreation": "1976",
+          "ceo": "Tim Cook",
+          "founders": "Steve Jobs, Steve Wozniak, Ronald Wayne",
+          "website": "https://www.apple.com",
+          "tags": ["@Apple"],
+          "profileIcon": "assets/Logo_Color.png",
+          "relation": {
+            "name": "Apple",
+            "value": 15,
+            "type": "black",
+            "level": "grey",
+            "children": [
+              {
+                "name": "Inb Electronics",
+                "value": 10,
+                "type": "grey",
+                "level": "grey",
+                "children": [
+                  {
+                    "name": "Hp",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  },
+                  {
+                    "name": "HandProducts",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  }
+                ]
+              },
+              {
+                "name": "Primax Electronics",
+                "value": 10,
+                "type": "grey",
+                "level": "grey",
+                "children": [
+                  {
+                    "name": "Hp",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  },
+                  {
+                    "name": "HandProducts",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  }
+                ]
+              },
+              {
+                "name": "Electronics Future",
+                "value": 10,
+                "type": "grey",
+                "level": "grey",
+                "children": [
+                  {
+                    "name": "A I C/O Geodis",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  },
+                  {
+                    "name": "Hp",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  },
+                  {
+                    "name": "HandProducts",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  }
+                ]
+              },
+              {
+                "name": "Sound Technology",
+                "value": 10,
+                "type": "grey",
+                "level": "grey",
+                "children": [
+                  {
+                    "name": "A I C/O Geodis",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  }
+                ]
+              },
+              {
+                "name": "Shanghai Computer",
+                "value": 10,
+                "type": "grey",
+                "level": "grey",
+                "children": [
+                  {
+                    "name": "Hp",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  },
+                  {
+                    "name": "HandProducts",
+                    "value": 7.5,
+                    "type": "grey",
+                    "level": "grey"
+                  }
+                ]
+              }
+            ]
+          },
+          "heatmap": {
+            "name": "Video Game Sales Data Top 100",
+            "children": [
+              {
+                "name": "2600",
+                "children": [
+                  {
+                    "name": "Pac-Man",
+                    "category": "2600",
+                    "value": "7.81"
+                  },
+                  {
+                    "name": "Pac-Man2",
+                    "category": "2600",
+                    "value": "7.81"
+                  },
+                  {
+                    "name": "Pac-Man3",
+                    "category": "2600",
+                    "value": "7.81"
+                  }
+                ]
+              },
+              {
+                "name": "Wii",
+                "children": [
+                  {
+                    "name": "Wii",
+                    "category": "Wii",
+                    "value": "82.53"
+                  },
+                  {
+                    "name": "Mario",
+                    "category": "Wii",
+                    "value": "35.52"
+                  },
+                  {
+                    "name": "Wii",
+                    "category": "Wii",
+                    "value": "32.77"
+                  },
+                  {
+                    "name": "Play",
+                    "category": "Wii",
+                    "value": "28.92"
+                  },
+                  {
+                    "name": "Super",
+                    "category": "Wii",
+                    "value": "28.32"
+                  },
+                  {
+                    "name": "WiiFit",
+                    "category": "Wii",
+                    "value": "22.7"
+                  },
+                  {
+                    "name": "FitPlus",
+                    "category": "Wii",
+                    "value": "21.79"
+                  },
+                  {
+                    "name": "Brawl",
+                    "category": "Wii",
+                    "value": "12.84"
+                  },
+                  {
+                    "name": "Galaxy",
+                    "category": "Wii",
+                    "value": "11.35"
+                  },
+                  {
+                    "name": "Dance3",
+                    "category": "Wii",
+                    "value": "10.12"
+                  },
+                  {
+                    "name": "Dance2",
+                    "category": "Wii",
+                    "value": "9.44"
+                  },
+                  {
+                    "name": "Wii Party",
+                    "category": "Wii",
+                    "value": "8.38"
+                  },
+                  {
+                    "name": "Party8",
+                    "category": "Wii",
+                    "value": "8.27"
+                  },
+                  {
+                    "name": "MarioSonic",
+                    "category": "Wii",
+                    "value": "7.99"
+                  },
+                  {
+                    "name": "Galaxy2",
+                    "category": "Wii",
+                    "value": "7.51"
+                  }
+                ]
+              },
+              {
+                "name": "NES",
+                "children": [
+                  {
+                    "name": "SuperMarioBros.",
+                    "category": "NES",
+                    "value": "40.24"
+                  },
+                  {
+                    "name": "DuckHunt",
+                    "category": "NES",
+                    "value": "28.31"
+                  },
+                  {
+                    "name": "Super3",
+                    "category": "NES",
+                    "value": "17.28"
+                  },
+                  {
+                    "name": "Supe2",
+                    "category": "NES",
+                    "value": "7.46"
+                  }
+                ]
+              },
+              {
+                "name": "GB",
+                "children": [
+                  {
+                    "name": "Red/Pokemon",
+                    "category": "GB",
+                    "value": "31.37"
+                  },
+                  {
+                    "name": "Tetris",
+                    "category": "GB",
+                    "value": "30.26"
+                  },
+                  {
+                    "name": "Gold/Pokemon",
+                    "category": "GB",
+                    "value": "23.1"
+                  },
+                  {
+                    "name": "Land",
+                    "category": "GB",
+                    "value": "18.14"
+                  },
+                  {
+                    "name": "Yellow",
+                    "category": "GB",
+                    "value": "14.64"
+                  },
+                  {
+                    "name": "Land2",
+                    "category": "GB",
+                    "value": "11.18"
+                  }
+                ]
+              },
+              {
+                "name": "DS",
+                "children": [
+                  {
+                    "name": "SuperMario",
+                    "category": "DS",
+                    "value": "29.8"
+                  },
+                  {
+                    "name": "Nintendogs",
+                    "category": "DS",
+                    "value": "24.67"
+                  },
+                  {
+                    "name": "Kart",
+                    "category": "DS",
+                    "value": "23.21"
+                  },
+                  {
+                    "name": "BrainAge",
+                    "category": "DS",
+                    "value": "20.15"
+                  },
+                  {
+                    "name": "Diamond/Pokemon",
+                    "category": "DS",
+                    "value": "18.25"
+                  },
+                  {
+                    "name": "Brain",
+                    "category": "DS",
+                    "value": "15.29"
+                  },
+                  {
+                    "name": "Black/Pokemon",
+                    "category": "DS",
+                    "value": "15.14"
+                  },
+                  {
+                    "name": "Animal",
+                    "category": "DS",
+                    "value": "12.13"
+                  },
+                  {
+                    "name": "HeartGold/Pokemon",
+                    "category": "DS",
+                    "value": "11.77"
+                  },
+                  {
+                    "name": "Super",
+                    "category": "DS",
+                    "value": "10.3"
+                  },
+                  {
+                    "name": "Mario",
+                    "category": "DS",
+                    "value": "8.91"
+                  },
+                  {
+                    "name": "Black",
+                    "category": "DS",
+                    "value": "8.07"
+                  },
+                  {
+                    "name": "Pokémon",
+                    "category": "DS",
+                    "value": "7.72"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "tesla",
+          "name": "Tesla, Inc.",
+          "sector": "Automotive",
+          "symbol": "TSLA",
+          "stock_price_usd": "700",
+          "market_cap_usd": "700 billion",
+          "description": "Designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems.",
+          "headquarter": "Palo Alto, CA, USA",
+          "yearOfCreation": "2003",
+          "ceo": "Elon Musk",
+          "founders": "Elon Musk, JB Strauss, Martin Eberhard, Marc Tarpenning",
+          "website": "https://www.tesla.com",
+          "tags": ["@Tesla", "#Automotive", "#ElectricVehicles"],
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "amazon",
+          "name": "Amazon.com, Inc.",
+          "sector": "Retail",
+          "symbol": "AMZN",
+          "stock_price_usd": "3,000",
+          "market_cap_usd": "1.5 trillion",
+          "description": "Engages in the retail sale of consumer products and subscriptions in North America and internationally.",
+          "headquarter": "Seattle, WA, USA",
+          "yearOfCreation": "1994",
+          "ceo": "Jeff Bezos",
+          "founders": "Jeff Bezos, David Smith, Adam Smith, Terry Smith",
+          "website": "https://www.amazon.com",
+          "tags": "@Amazon",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "microsoft",
+          "name": "Microsoft Corporation",
+          "sector": "Technology",
+          "symbol": "MSFT",
+          "stock_price_usd": "250",
+          "market_cap_usd": "2 trillion",
+          "description": "Develops, licenses, and supports software, services, devices, and solutions worldwide.",
+          "headquarter": "Redmond, WA, USA",
+          "yearOfCreation": "1975",
+          "ceo": "Satya Nadella",
+          "founders": "Satya Nadella, Bill Gates, Paul Allen",
+          "website": "https://www.microsoft.com",
+          "tags": "@Microsoft",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "google",
+          "name": "Alphabet Inc.",
+          "sector": "Technology",
+          "symbol": "GOOGL",
+          "stock_price_usd": "2,000",
+          "market_cap_usd": "1.5 trillion",
+          "description": "Provides online advertising services in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America.",
+          "headquarter": "Mountain View, CA, USA",
+          "yearOfCreation": "1998",
+          "ceo": "Larry Page",
+          "founders": "Larry Page, Sergey Brin",
+          "website": "https://www.google.com",
+          "tags": "@Google",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "facebook",
+          "name": "Meta Platforms, Inc.",
+          "sector": "Technology",
+          "symbol": "FB",
+          "stock_price_usd": "300",
+          "market_cap_usd": "1 trillion",
+          "description": "Develops products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality headsets, and in-home devices worldwide.",
+          "headquarter": "Menlo Park, CA, USA",
+          "yearOfCreation": "2004",
+          "ceo": "Mark Zuckerberg",
+          "founders": "Mark Zuckerberg, Dustin Moskovitz, Eduardo Saverin, Andrew McCollum",
+          "website": "https://www.facebook.com",
+          "tags": "@Facebook",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "netflix",
+          "name": "Netflix, Inc.",
+          "sector": "Technology",
+          "symbol": "NFLX",
+          "stock_price_usd": "500",
+          "market_cap_usd": "250 billion",
+          "description": "Provides subscription streaming entertainment service.",
+          "headquarter": "Los Gatos, CA, USA",
+          "yearOfCreation": "1997",
+          "ceo": "Reed Hastings",
+          "founders": "Reed Hastings, Marc Randolph, Tyler Wright",
+          "website": "https://www.netflix.com",
+          "tags": "@Netflix",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "nike",
+          "name": "NIKE, Inc.",
+          "sector": "Consumer Goods",
+          "symbol": "NKE",
+          "stock_price_usd": "150",
+          "market_cap_usd": "250 billion",
+          "description": "Designs, develops, markets, and sells athletic footwear, apparel, equipment, and accessories worldwide.",
+          "headquarter": "Beijnum, The Netherlands",
+          "yearOfCreation": "1963",
+          "ceo": "Phil Knight",
+          "founders": "Phil Knight, Bill Bowerman, Peter Moore, Howard Ralston",
+          "website": "https://www.nike.com",
+          "tags": "@Nike",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "starbucks",
+          "name": "Starbucks Corporation",
+          "sector": "Consumer Goods",
+          "symbol": "SBUX",
+          "stock_price_usd": "100",
+          "market_cap_usd": "150 billion",
+          "description": "Operates as a roaster, marketer, and retailer of specialty coffee worldwide.",
+          "headquarter": "Seattle, WA, USA",
+          "yearOfCreation": "1971",
+          "ceo": "Jeffrey W. Smith",
+          "founders": "Jeffrey W. Smith, Howard Smith, John Smith",
+          "website": "https://www.starbucks.com",
+          "tags": "@Starbucks",
+          "profileIcon": "assets/Logo_Color.png"
+        },
+        {
+          "id": "coca-cola",
+          "name": "The Coca-Cola Company",
+          "sector": "Consumer Goods",
+          "symbol": "KO",
+          "stock_price_usd": "50",
+          "market_cap_usd": "200 billion",
+          "description": "Manufactures, markets, and sells nonalcoholic beverages worldwide.",
+          "headquarter": "San Francisco, CA, USA",
+          "yearOfCreation": "1861",
+          "ceo": "John S. Pemberton",
+          "founders": "John S. Pemberton, John Pemberton, John Pemberton",
+          "website": "https://www.coca-cola.com",
+          "tags": "@Coca-Cola",
+          "profileIcon": "assets/Logo_Color.png"
+        }
+      ]
+    },
+    {
+      "name": "cryptocurrencies",
+      "cryptocurrencies": [
+        {
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "profileIcon": "assets/Logo_Color.png",
+          "tags": "@BTC",
+          "symbol": "BTC",
+          "price_usd": "70,000",
+          "percentagePrice": "+1,07%",
+          "dailyChart": "assets/DailyPriceChart.png",
+          "market_cap_usd": "1 trillion",
+          "max_supply": "1000000000000",
+          "description": "A decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries."
+        },
+        {
+          "id": "ethereum",
+          "name": "Ethereum",
+          "profileIcon": "assets/Logo_Color.png",
+          "tags": "@ETH",
+          "symbol": "ETH",
+          "price_usd": "3,000",
+          "percentagePrice": "+1,07%",
+          "dailyChart": "assets/DailyPriceChart.png",
+          "market_cap_usd": "300 billion",
+          "max_supply": "1000000000000",
+          "description": "A decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, fraud or third-party interference."
+        },
+        {
+          "id": "ripple",
+          "name": "Ripple",
+          "profileIcon": "assets/Logo_Color.png",
+          "tags": "@XRP",
+          "symbol": "XRP",
+          "price_usd": "1,50",
+          "percentagePrice": "+1,07%",
+          "dailyChart": "assets/DailyPriceChart.png",
+          "market_cap_usd": "50 billion",
+          "max_supply": "1000000000000",
+          "description": "A digital payment protocol that operates a peer-to-peer, decentralized blockchain network that can be used to transfer money in any currency."
+        },
+        {
+          "id": "litecoin",
+          "name": "Litecoin",
+          "profileIcon": "assets/Logo_Color.png",
+          "tags": "@LTC",
+          "symbol": "LTC",
+          "price_usd": "150,00",
+          "percentagePrice": "+1,07%",
+          "dailyChart": "assets/DailyPriceChart.png",
+          "market_cap_usd": "10 billion",
+          "max_supply": "1000000000000",
+          "description": "A peer-to-peer cryptocurrency and open-source software project released under the MIT/X11 license."
+        },
+        {
+          "id": "cardano",
+          "name": "Cardano",
+          "profileIcon": "assets/Logo_Color.png",
+          "tags": "@ADA",
+          "symbol": "ADA",
+          "price_usd": "2,03",
+          "percentagePrice": "+1,07%",
+          "dailyChart": "assets/DailyPriceChart.png",
+          "market_cap_usd": "50 billion",
+          "max_supply": "1000000000000",
+          "description": "A blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change."
+        }
+      ]
+    },
+    {
+      "name": "Sectors",
+      "sectors": [
+        {
+          "id": "technology",
+          "name": "Technology",
+          "companies": ["apple", "microsoft", "google", "facebook", "netflix"]
+        },
+        {
+          "id": "automotive",
+          "name": "Automotive",
+          "companies": [
+            "tesla",
+            "ford",
+            "general_motors",
+            "toyota",
+            "honda",
+            "volkswagen",
+            "bmw",
+            "mercedes-benz"
+          ]
+        },
+        {
+          "id": "retail",
+          "name": "Retail",
+          "companies": ["amazon"]
+        },
+        {
+          "id": "consumer_goods",
+          "name": "Consumer Goods",
+          "companies": ["nike", "starbucks", "coca-cola"]
+        }
+      ]
+    }
+  ]
+}
